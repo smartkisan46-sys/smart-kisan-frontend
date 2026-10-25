@@ -1,0 +1,18 @@
+{
+  "name": "smart-kisan-maharashtra",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Smart Kisan — Maharashtra Farmer Weather, Crop Advisory & Mandi Rates Portal",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
